@@ -1,6 +1,6 @@
 # azure-ad-b2c-example
 
-This repository contains examples of custom policies for [Azure Active Directory B2C]().
+This repository contains examples of custom policies for [Azure Active Directory B2C](https://azure.microsoft.com/en-us/services/active-directory/external-identities/b2c/#overview).
 
 | Example                                                      | Description                                                  | Note                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
